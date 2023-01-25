@@ -1,1 +1,27 @@
 /*styles.css*/
+* {
+    font-family: "Cursive", Lucida Handwriting;
+    font-size: 25px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.background {
+    background-position: 20px;
+
+
+}
+
+
+.title {
+    color: white;
+    background-color: red;
+    background-size: cover;
+    font-size: 32px;
+    text-align: center;
+}
+
+.background.img {
+    text-align: center;
+}
