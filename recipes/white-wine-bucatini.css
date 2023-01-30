@@ -1,0 +1,15 @@
+.ingredients {
+    margin-right: 40%;
+    padding-left: 8%;
+}
+
+* {
+    box-sizing: border-box;
+    background-color: aqua;
+    border: 10px solid goldenrod;
+}
+
+.button {
+    color: crimson;
+
+}
